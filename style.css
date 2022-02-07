@@ -1,5 +1,6 @@
     body{
         font-family: 'Poppins', sans-serif;
+        margin: 0;
     }
     h1{
         font-size: 50px;
@@ -13,8 +14,24 @@
     }
     .mama{
         width: 50%;
-        padding-left: 5%;
+        padding-left: 15%;
     }
     .mama img{
              width: 70%;
     }
+    .Hire-me{
+   text-decoration: none;
+    background-image: linear-gradient(orange, blue);
+   border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    font-size: 20px;
+
+ }
+ .bg{
+     background-image: url(top-banner.png);
+     background-repeat: no-repeat;
+ }
+ p{
+     text-align: justify;
+ }
