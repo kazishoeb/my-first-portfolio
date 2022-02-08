@@ -25,7 +25,7 @@
     }
     .Hire-me{
    text-decoration: none;
-    background-image: linear-gradient(orange, blue);
+    background-image: linear-gradient(orange, rgb(202, 43, 14));
    border-radius: 5px;
     padding: 10px 40px;
     color: white;
